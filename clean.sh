@@ -1,0 +1,16 @@
+rm *.txt
+rm D/*.txt
+rm D/0/*.txt
+rm D/1/*.txt
+rm T/*.txt
+rm T/0/*.txt
+rm T/1/*.txt
+rm S/*.txt
+rm S/0/*.txt
+rm S/1/*.txt
+rm S/2/*.txt
+rm S/3/*.txt
+rm S/4/*.txt
+rm S/5/*.txt
+rm S/6/*.txt
+rm S/7/*.txt
