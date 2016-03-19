@@ -14,3 +14,10 @@ rm S/4/*.txt
 rm S/5/*.txt
 rm S/6/*.txt
 rm S/7/*.txt
+rm ST/0/*.txt
+rm ST/0/0/*.txt
+rm ST/0/1/*.txt
+rm ST/0/TEST/*.txt
+rm ST/1/0/*.txt
+rm ST/1/1/*.txt
+rm ST/1/TEST/*.txt
